@@ -1,0 +1,9 @@
+{
+  "appId": "com.universidad.bienestar",
+  "appName": "Bienestar Estudiantil",
+  "webDir": "www",
+  "server": {
+    "url": "https://heroic-melomakarona-22daae.netlify.app",
+    "cleartext": false
+  }
+}
